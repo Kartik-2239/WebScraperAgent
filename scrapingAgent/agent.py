@@ -96,6 +96,6 @@ root_agent = Agent(
     -DO NOT SAVE THE IMAGE IF NOT ASKED BY THE USER.
     -DO NOT SAVE THE TEXT IF NOT ASKED BY THE USER.
     """,
-    tools=[get_content_for_prediction_tool, get_data_tool, save_img_tool, save_text_tool],
+    tools=[get_content_for_prediction_tool, get_data_tool,] #save_img_tool, save_text_tool],
 )
 
