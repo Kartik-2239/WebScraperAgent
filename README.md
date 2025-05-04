@@ -1,6 +1,9 @@
 #Web Scraping Agent
 A powerful web scraping tool built with Google's ADK (Agent Development Kit) that enables intelligent extraction of data from websites.
 
+# Video
+https://x.com/kartik2239/status/1916754934722183572/video/1
+
 # Features
 Intelligent HTML Content Analysis: Dynamically analyzes webpage structure to determine optimal extraction strategies
 Targeted Data Extraction: Extract specific elements like links, text, images, and more
