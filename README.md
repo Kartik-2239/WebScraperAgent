@@ -51,7 +51,7 @@ session = session_service.create_session(
     session_id=SESSION_ID
 )
 runner = Runner(
-    agent=weather_agent, # The agent we want to run
+    agent=scraper_agent, # The agent we want to run
     app_name=APP_NAME,   # Associates runs with our app
     session_service=session_service # Uses our session manager
 )
