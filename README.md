@@ -39,7 +39,7 @@ adk run scrapingAgent
 ```
 then you can give it a link and the query
 
-2.) You can define an agent calling function (it is an google adk thing)
+2.) You can define an agent calling function (it is a google adk thing)
 ```
 APP_NAME = "scrapingAgent"
 USER_ID = "user_1"
